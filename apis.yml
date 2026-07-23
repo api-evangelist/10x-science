@@ -1,8 +1,13 @@
 aid: 10x-science
 name: 10x Science
-description: '10x Science is a company surfaced as a portfolio company of initialized-capital, y-combinator
-  and added to the API Evangelist network as a stub for enrichment. Sector: frontier-tech. This profile
-  is a lead awaiting the enrichment pipeline.'
+description: '10x Science is an AI-native software company building the first AI-native
+  protein characterization platform for the life sciences, starting with drug development.
+  A Y Combinator W26 company founded out of Nobel laureate Carolyn Bertozzi''s laboratory
+  at Stanford University, it automates peptide mapping for protein therapeutics, delivering
+  explainable molecular insights in minutes where legacy tools and manual workflows
+  take months. The company raised a $4.8M seed round led by Initialized Capital and
+  is headquartered in the San Francisco Bay Area. This API Evangelist profile tracks
+  the company; it does not yet publish a public developer API.'
 url: https://raw.githubusercontent.com/api-evangelist/10x-science/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +16,30 @@ x-backed-by:
 - y-combinator
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
 modified: '2026-07-17'
+image: https://10xscience.com/assets/10x-Science_graphic-light.svg
 tags:
 - Company
 - Frontier Tech
+- Life Sciences
+- Drug Discovery
+- Protein Therapeutics
+- Biotechnology
+- Artificial Intelligence
+- Peptide Mapping
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,5 +47,21 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/10x-science-domain-security.yml
 - type: Website
   url: https://10xscience.com/
+- type: SignUp
+  name: Book an intro
+  url: https://10x-science.cal.com/
+- type: CompanyProfile
+  name: Y Combinator (W26)
+  url: https://www.ycombinator.com/companies/10x-science
+- type: Careers
+  name: Jobs at 10x Science
+  url: https://www.ycombinator.com/companies/10x-science/jobs
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
