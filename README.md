@@ -64,6 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-10x Science is a company surfaced as a portfolio company of initialized-capital, y-combinator and added to the API Evangelist network as a stub for enrichment. Sector: frontier-tech. This profile is a lead awaiting the enrichment pipeline.
+10x Science is an AI-native software company building the first AI-native protein characterization platform for the life sciences, starting with drug development. A Y Combinator W26 company founded out of Nobel laureate Carolyn Bertozzi's laboratory at Stanford University, it automates peptide mapping for protein therapeutics, delivering explainable molecular insights in minutes where legacy tools and manual workflows take months. The company raised a $4.8M seed round led by Initialized Capital and is headquartered in the San Francisco Bay Area. This API Evangelist profile tracks the company; it does not yet publish a public developer API.
 
-Backed by: initialized-capital, y-combinator — https://10xscience.com/
+**Areas:** Company · Frontier Tech · Life Sciences · Drug Discovery · Protein Therapeutics · Biotechnology · Artificial Intelligence · Peptide Mapping
+
+## 10x Science on APIs.io
+
+Everything profiled for 10x Science is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/10x-science/](https://apis.io/providers/10x-science/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [10X Science Domain Security](https://apis.io/security/10x-science/10x-science-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://10xscience.com/)
+- [Sign up](https://10x-science.cal.com/)
+- [Blog](https://10xscience.com/blog/)
+
+## API Evangelist rating
+
+**Kin Score 6.8** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 13.2 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.4** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/10x-science/](https://apis.io/providers/10x-science/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for 10x Science: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/10x-science/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
